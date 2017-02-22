@@ -6,7 +6,8 @@ body {
 
 img {
 	height: 35px;
-	
+	display: block;
+	margin: auto;
 }
 
 .first-form fieldset {
@@ -28,4 +29,32 @@ h1 {
 	color: grey;
 	padding-left: 35%;
 
+}
+
+.first-form label {
+	display: block;
+	font-size: 12px;
+	font-family: Arial;
+	color: black;
+
+}
+
+.first-form input {
+	display: block;
+	width: 320px;
+	
+
+}
+
+.first-form input::placeholder {
+	color: lightgrey;
+
+}
+
+.first-form button {
+
+}
+
+p {
+	text-align: center;
 }
