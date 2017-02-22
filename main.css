@@ -1,0 +1,31 @@
+body {
+	background-color: #00bfff;
+	font-size: 12px;
+	font-family: Arial;
+}
+
+img {
+	height: 35px;
+	
+}
+
+.first-form fieldset {
+	width: 320px;
+	height: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	background-color: white;
+	box-sizing: border-box;
+	border: none;
+	margin: auto;
+
+}
+
+h1 {
+	font-family: Arial;
+	font-weight: lighter;
+	font-size: 24px;
+	color: grey;
+	padding-left: 35%;
+
+}
