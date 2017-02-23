@@ -83,6 +83,9 @@ p {
 }
 
 a {
-	color: white;
+	color: lightgrey;
+	text-align: center;
+	display: block;
+	padding-top: 1em;
 
 }
