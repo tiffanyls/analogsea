@@ -8,6 +8,7 @@ img {
 	height: 35px;
 	display: block;
 	margin: auto;
+	padding: 2.5em;
 }
 
 .first-form fieldset {
